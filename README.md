@@ -1,9 +1,7 @@
-# 🛒Project Management(김동규,김영식,김진서,장태현,허웅)
-Stationery E-Commerce Web Application with Spring Boot  
-Author : <rhjdev@gmail.com>
-
+# 🛒DEHUV-SURVER(김동규,김영식,김진서,장태현,허웅)
+💬 Manage Configuration Easily with Us To Improve Your Project 
+프로젝트를 개선하기 위해 우리와 함께 쉽게 구성을 관리를 할수있게 만든 프로젝트
 ### 💻프로젝트 개요
-💬암호화된 프로젝트</U>로서 실행을 위해서는 'Run Configurations - VM Arguments'에 `-Djasypt.encryptor.password=****` 등록이 요구됩니다. 비밀번호가 일치하지 않을 시 BindException과 함께 APPLICATION FAILED TO START.
 - [x] [💿서비스 시연 영상](#서비스-시연-영상)
 - [x] [🎯서비스 핵심기능](#서비스-핵심기능)
 - [x] [🛠기술 스택](#기술-스택)
@@ -18,7 +16,7 @@ Author : <rhjdev@gmail.com>
 
 ### 🎯서비스 핵심기능
 ```
-👨‍👨‍👧 회원 : 로그인 | 회원가입 | 이메일 인증 | 소셜 로그인(카카오/구글) | 아이디 찾기 | 비밀번호 찾기 | 임시 비밀번호 발송
+👨‍👨‍👧 회원 : 로그인 | 회원가입 | 이메일 인증 | 소셜 로그인(/구글) 
 🏡 마이페이지 : 주문/배송 조회 | 리뷰 등록,수정,삭제 | 찜하기 목록 조회,삭제 | 적립금 내역 조회 | 최초 주문 전 휴대폰 번호 인증 | 회원정보수정 | 회원탈퇴
 💰 상품 : 헤더 전체 검색 | 찜하기 등록,삭제 | 섹션/브랜드/가격범위/태그/필터별 조회, 장바구니, 바로주문
 🚧 고객센터 : 1:1문의 등록,수정,삭제 | 글·댓글내용/작성자/첨부파일명/말머리별 게시판 검색 | 작성자/관리자 한정 게시글 조회 | 댓글 및 대댓글 등록,수정,삭제,실시간 알림
