@@ -1,4 +1,4 @@
-# 🛒devhub-server(김동규,김영식,김진서,장태현,허웅)
+# 🛒Project Management(김동규,김영식,김진서,장태현,허웅)
 Stationery E-Commerce Web Application with Spring Boot  
 Author : <rhjdev@gmail.com>
 
