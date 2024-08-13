@@ -1,4 +1,4 @@
-# 🛒글벗문구(1인 프로젝트)
+# 🛒devhub-server(김동규,김영식,김진서,장태현,허웅)
 Stationery E-Commerce Web Application with Spring Boot  
 Author : <rhjdev@gmail.com>
 
