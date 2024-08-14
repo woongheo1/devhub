@@ -13,7 +13,7 @@
 <hr/>
 
 ### 💿서비스 시연 영상
-[![YouTube](https://img.youtube.com/vi/RnkRZ14TDL4/maxresdefault.jpg)](https://youtu.be/RnkRZ14TDL4)
+[![YouTube](https://img.youtube.com/vi/RnkRZ14TDL4/maxresdefault.jpg)](https://youtu.be/RnkRZ14TDL4) #영식 제작 예정
 
 ### 🎯서비스 핵심기능
 ```
