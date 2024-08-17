@@ -18,7 +18,7 @@
 ### 🎯서비스 핵심기능
 ```
 👨‍👨‍👧 회원 : 로그인 | 로그아웃 | 회원가입 | 이메일 인증 | 소셜 로그인(구글) 
-🏡 나의프로젝트 : 저장소 이름 | 간단한 저장소 설명 | 
+🏡 나의프로젝트 : 저장소 이름 | 간단한 저장소 설명 | 수정 | 삭제
 🏡 팀 프로젝트 :  프로젝트 만들기 | 프로젝트 목록 | 프로젝트 참가 | 팀원초대
 💰 쪽지 보내기 : 받는 사람의 이메일 | 팀 레포지토리 URL | 메세지 내용
 💰 쪽지함 : 받은 쪽지함 | 보낸 쪽지함
@@ -116,8 +116,8 @@ public enum ProductInkColor {
 |![003](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%AC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8.gif)|![004](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB.gif)|![005](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A5%E1%84%85%E1%85%A9%E1%84%87%E1%85%A7%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC.gif)|
 |<small><b>임시비밀번호발송 및 회원정보수정</b></small>|<small><b>소셜로그인(카카오)</b></small>|<small><b>소셜로그인(구글)</b></small>|
 |![006](https://github.com/rhjdev/geulbeotmall/assets/95993932/d3d89f06-1a07-41e2-8d69-83ab172fdff0)|![007](https://github.com/rhjdev/geulbeotmall/assets/95993932/ed538d0d-1f0c-4bf5-8dfd-1543db876983)|![008](https://github.com/rhjdev/geulbeotmall/assets/95993932/82878195-95fc-43a2-ba78-9905f07f1240)|
-|<small><b>팀프로젝트 생성</b></small>|<small><b>상품조회(섹션별)</b></small>|<small><b>상품조회(색상필터별)</b></small>|
-|![009](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%90%E1%85%B5%E1%86%B7%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC.gif)|![010](https://github.com/rhjdev/geulbeotmall/assets/95993932/03056c26-3fd4-4103-9aa8-fd9e02dda7dd)|![011](https://github.com/rhjdev/geulbeotmall/assets/95993932/c9dd3b41-584e-4499-9b67-cfc86717a87b)|
+|<small><b>팀프로젝트 생성</b></small>|<small><b>팀프로젝트 목록</b></small>|<small><b>상품조회(색상필터별)</b></small>|
+|![009](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%90%E1%85%B5%E1%86%B7%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC.gif)|![010](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%90%E1%85%B5%E1%86%B7%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8.gif)|![011](https://github.com/rhjdev/geulbeotmall/assets/95993932/c9dd3b41-584e-4499-9b67-cfc86717a87b)|
 |<small><b>찜하기</b></small>|<small><b>상품검색 및 장바구니</b></small>|<small><b>최초 주문 전 휴대폰 인증</b></small>|
 |![012](https://github.com/rhjdev/geulbeotmall/assets/95993932/2fd77cbd-989f-4fb6-8e58-f5da10d85567)|![013](https://github.com/rhjdev/geulbeotmall/assets/95993932/3bc2e2ae-d3b2-4341-8536-a2fbf2ae5f3b)|![014](https://github.com/rhjdev/geulbeotmall/assets/95993932/823a6540-b75d-45a3-976c-1befa69ec5f8)|
 |<small><b>장바구니 주문</b></small>|<small><b>바로주문</b></small>|<small><b>문의게시글 등록</b></small>
