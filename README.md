@@ -114,26 +114,28 @@ public enum ProductInkColor {
 |<small>회원가입</small>|<small>로그인<small>|<small>영어로변경</small>|
 |:-:|:-:|:-:|
 |![003](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%AC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8.gif)|![004](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB.gif)|![005](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A5%E1%84%85%E1%85%A9%E1%84%87%E1%85%A7%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC.gif)|
-|<small><b>임시비밀번호발송 및 회원정보수정</b></small>|<small><b>소셜로그인(카카오)</b></small>|<small><b>소셜로그인(구글)</b></small>|
-|![006]()|![007]()|![008](https://github.com/rhjdev/geulbeotmall/assets/95993932/82878195-95fc-43a2-ba78-9905f07f1240)|
-|<small><b>팀프로젝트 생성</b></small>|<small><b>팀프로젝트 목록</b></small>|<small><b>상품조회(색상필터별)</b></small>|
-|![009](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%90%E1%85%B5%E1%86%B7%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC.gif)|![010](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%90%E1%85%B5%E1%86%B7%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8.gif)|![011]()|
+|<small><b>소셜로그인(구글)</b></small>|<small><b>나의프로젝트 생성</b></small>|<small><b>나의프로젝트 수정</b></small>|
+|![006]()|![007]()|![008]()|
+|<small><b>나의프로젝트 삭제</b></small>|<small><b>나의프로젝트 목록</b></small>|<small><b>쪽지 보내기</b></small>|
+|![006]()|![007]()|![008]()|
+|<small><b>쪽지함</b></small>|<small><b>팀 프로젝트 생성</b></small>|<small><b>팀프로젝트 목록</b></small>|
+|![009]()|![010](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%90%E1%85%B5%E1%86%B7%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC.gif)|![011](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%90%E1%85%B5%E1%86%B7%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8.gif)|
 |<small><b>게시글 생성</b></small>|<small><b>게시글 상세보기</b></small>|<small><b>게시글 수정</b></small>|
 |![012](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC.gif)|![013](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A6%E1%84%87%E1%85%A9%E1%84%80%E1%85%B5.gif)|![014](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC.gif)|
 |<small><b>게시글 삭제</b></small>|<small><b>게시글 검색</b></small>|<small><b>내 게시글 목록</b></small>
 | ![015](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6.gif) | ![016](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8.gif) | ![017](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%82%E1%85%A2%20%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8.gif) |
-|<small><b>댓글/대댓글 실시간 알림</b></small>|<small><b>댓글 수정,삭제 및 첨부파일 다운로드</b></small>|<small><b>상품출고/배송완료 실시간 알림<b></small>|
-![018](https://github.com/rhjdev/geulbeotmall/assets/95993932/c74ffaaa-e2a8-4535-b355-8f0236155f74)|![019](https://github.com/rhjdev/geulbeotmall/assets/95993932/1886ef53-5e89-4fb3-9c6f-e40124ef5e0b)|![020](https://github.com/rhjdev/geulbeotmall/assets/95993932/8b8783b8-b42f-4632-a812-88005ad5552e)|
-|<small><b>알림 삭제</b></small>|<small><b>텍스트리뷰 등록</b></small>|<small><b>사진리뷰 등록</b></small>|
-|![023](https://github.com/rhjdev/geulbeotmall/assets/95993932/1e7fa9d1-81e7-4096-8cdd-ef45f34334f3)|![024](https://github.com/rhjdev/geulbeotmall/assets/95993932/610c8e6d-7d4c-4d25-be14-08152389661d)|![025](https://github.com/rhjdev/geulbeotmall/assets/95993932/7f2e1e73-5306-4b98-94ba-db0be3792ac5)|
-|<small><b>디자인관리(슬라이드/이벤트배너 등록,수정)</b></small>|<small><b>기간별통계관리(조회,엑셀다운로드)</b></small>|<small><b>게시글관리(검색,조회,삭제,복구)</b></small>|
-![001](https://github.com/rhjdev/geulbeotmall/assets/95993932/94085e0c-8a0d-40c6-9dbf-cf43aa27f24b)|![026](https://github.com/rhjdev/geulbeotmall/assets/95993932/4523100d-4864-4160-90bb-1cebfae6162c)|![027](https://github.com/rhjdev/geulbeotmall/assets/95993932/02c3fe78-3491-4a54-ad20-7ba18b8ed0b6)
+|<small><b>마이 페이지</b></small>|<small><b>비밀번호 변경</b></small>|<small><b>쪽지함<b></small>|
+![018]()|![019]()|![020]()|
+|<small><b>쪽지보내기</b></small>|<small><b>나의프로젝트</b></small>|<small><b>팀 프로젝트</b></small>|
+|![023]()|![024]()|![025]()|
+|<small><b>나의 게시글</b></small>|<small><b>진행사항</b></small>|<small><b>활동내역</b></small>|
+![001]()|![026]()|![027]()
 |<small><b>댓글관리(검색,조회,삭제,복구)</b></small>|<small><b>문의게시글 수정,삭제</b></small>|<small><b>문의게시판 검색(글/댓글,작성자,말머리별)</b></small>|
-|![028](https://github.com/rhjdev/geulbeotmall/assets/95993932/740a82dc-208d-4d93-a8ad-6765d501fa64)|![021](https://github.com/rhjdev/geulbeotmall/assets/95993932/5e00163f-bb8b-4b17-a7b8-fcf8230301ad)|![022](https://github.com/rhjdev/geulbeotmall/assets/95993932/89fbb68a-b952-4118-ba42-853fdae21b6f)|
+|![028](|![021]()|![022]()|
 |<small><b>상품관리(판매상태 변경)</b></small>|<small><b>상품관리(상품 등록)</b></small>|<small><b>전체상품조회(정렬별)</b></small>|
-|![029](https://github.com/rhjdev/geulbeotmall/assets/95993932/aac750c9-b57f-4eb9-b742-9f9796f27bb6)|![030](https://github.com/rhjdev/geulbeotmall/assets/95993932/04706054-cfd8-469f-ab25-1b319bcec709)|![031](https://github.com/rhjdev/geulbeotmall/assets/95993932/b7b5dd8f-5f45-4065-b33d-39b84d3600ac)|
+|![029]()|![030]()|![031]()|
 |<small><b>찜한상품 삭제 및 회원탈퇴</b></small>|<small><b>회원관리(계정정지/해제,누적경고수조회)</b></small>|<small><b>회원관리(관리자권한부여)</b></small>|
-|![032](https://github.com/rhjdev/geulbeotmall/assets/95993932/ffdf2c5a-e78e-444c-9a1d-f4dad7d420e0)|![033](https://github.com/rhjdev/geulbeotmall/assets/95993932/e8b6b870-916d-4055-aaa9-12176a14889a)|![034](https://github.com/rhjdev/geulbeotmall/assets/95993932/13236b06-9a51-445e-ad82-4a6ca8dfab0f)|
+|![032]()|![033](|![034]()|
 
 ### 🛠기술 스택
 OS | Windows 10, Mac
