@@ -125,11 +125,11 @@ public enum ProductInkColor {
 |<small><b>게시글 삭제</b></small>|<small><b>게시글 검색</b></small>|<small><b>내 게시글 목록</b></small>
 | ![015](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6.gif) | ![016](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8.gif) | ![017](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%82%E1%85%A2%20%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8.gif) |
 |<small><b>팀만들기</b></small>|<small><b>팀목록</b></small>|<small><b>프로젝트 참가<b></small>|
-![018]()|![019]()|![020]()|
+![018](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%90%E1%85%B5%E1%86%B7%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC.gif)|![019](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%90%E1%85%B5%E1%86%B7%20%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8%20%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC.gif)|![020]()|
 |<small><b>팀설정</b></small>|<small><b>팀원 초대</b></small>|<small><b>휴지통(복구,삭제)</b></small>|
-|![023]()|![024]()|![025]()|
+|![023](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%90%E1%85%B5%E1%86%B7%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.gif)|![024](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%90%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%A9%E1%84%83%E1%85%A2.gif)|![025](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%B2%E1%84%8C%E1%85%B5%E1%84%90%E1%85%A9%E1%86%BC.gif)|
 |<small><b>프로젝트 삭제 내역</b></small>|<small><b>환영 페이지</b></small>|<small><b>새 레포 만들기</b></small>|
-![001]()|![026]()|![027]()
+![001](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6%20%E1%84%82%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%A8.gif)|![026](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%AA%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.gif)|![027](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%89%E1%85%A2%20%E1%84%85%E1%85%A6%E1%84%91%E1%85%A9%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5.gif)
 |<small><b>마이페이지</b></small>|<small><b>비밀번호 변경</b></small>|<small><b>쪽지함</b></small>|
 |![028]()|![021]()|![022]()|
 |<small><b>쪽지보내기</b></small>|<small><b>기록</b></small>|<small><b>팀 목록</b></small>|
