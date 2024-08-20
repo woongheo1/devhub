@@ -131,7 +131,7 @@ public enum ProductInkColor {
 |<small><b>프로젝트 삭제 내역</b></small>|<small><b>환영 페이지</b></small>|<small><b>새 레포 만들기</b></small>|
 ![001](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6%20%E1%84%82%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%A8.gif)|![026](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%AA%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.gif)|![027](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%89%E1%85%A2%20%E1%84%85%E1%85%A6%E1%84%91%E1%85%A9%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5.gif)
 |<small><b>팀원초대</b></small>|<small><b>쪽지함</b></small>|<small><b>쪽지함 삭제</b></small>|
-|![028]()|![021]()|![022]()|
+|![028](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%86%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%A9%E1%84%83%E1%85%A2.gif)|![021](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8D%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%B5%E1%84%92%E1%85%A1%E1%86%B7.gif)|![022](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%8D%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%B5%E1%84%92%E1%85%A1%E1%86%B7%20%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6.gif)|
 |<small><b>결제</b></small>|<small><b>AI 서비스</b></small>|<small><b>마이 페이지</b></small>|
 |![029]()|![030]()|![031]()|
 |<small><b>게시판 기록</b></small>|<small><b>활동</b></small>|<small><b>결제</b></small>|
