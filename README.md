@@ -135,9 +135,9 @@ public enum ProductInkColor {
 |<small><b>쪽지보내기</b></small>|<small><b>기록</b></small>|<small><b>팀 목록</b></small>|
 |![029]()|![030]()|![031]()|
 |<small><b>게시판 기록</b></small>|<small><b>활동</b></small>|<small><b>결제</b></small>|
-|![032]()|![033](|![034]()|
+|![032]()|![033]()|![034]()|
 |<small><b>진행</b></small>|<small><b>AI</b></small>|<small><b>홈으로 가기</b></small>|
-|![035]()|![036](|![037]()|
+|![035]()|![036]()|![037]()|
 
 ### 🛠기술 스택
 OS | Windows 10, Mac
