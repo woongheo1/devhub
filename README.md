@@ -119,23 +119,25 @@ public enum ProductInkColor {
 |<small><b>나의프로젝트 삭제</b></small>|<small><b>쪽지 보내기</b></small>|<small><b>쪽지함</b></small>|
 |![006](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6.gif)|![007](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%8D%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%B5%E1%84%87%E1%85%A9%E1%84%82%E1%85%A2%E1%84%80%E1%85%B5.gif)|![008](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%8D%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%B5%E1%84%92%E1%85%A1%E1%86%B7.gif)|
 |<small><b>쪽지 삭제</b></small>|<small><b>나의프로젝트 목록</b></small>|<small><b>로그아웃</b></small>|
-|![009](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%8D%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%B5%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6.gif)|![010](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%90%E1%85%B5%E1%86%B7%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC.gif)|![011](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%BA.gif)|
+|![009](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%8D%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%B5%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6.gif)|![010](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8.gif)|![011](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%BA.gif)|
 |<small><b>게시글 생성</b></small>|<small><b>게시글 상세보기</b></small>|<small><b>게시글 수정</b></small>|
 |![012](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC.gif)|![013](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A6%E1%84%87%E1%85%A9%E1%84%80%E1%85%B5.gif)|![014](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC.gif)|
 |<small><b>게시글 삭제</b></small>|<small><b>게시글 검색</b></small>|<small><b>내 게시글 목록</b></small>
 | ![015](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6.gif) | ![016](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8.gif) | ![017](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%82%E1%85%A2%20%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8.gif) |
-|<small><b>마이 페이지</b></small>|<small><b>비밀번호 변경</b></small>|<small><b>쪽지함<b></small>|
+|<small><b>팀만들기</b></small>|<small><b>팀목록</b></small>|<small><b>프로젝트 참가<b></small>|
 ![018]()|![019]()|![020]()|
-|<small><b>쪽지보내기</b></small>|<small><b>나의프로젝트</b></small>|<small><b>팀 프로젝트</b></small>|
+|<small><b>팀설정</b></small>|<small><b>팀원 초대</b></small>|<small><b>휴지통(복구,삭제)</b></small>|
 |![023]()|![024]()|![025]()|
-|<small><b>나의 게시글</b></small>|<small><b>진행사항</b></small>|<small><b>활동내역</b></small>|
+|<small><b>프로젝트 삭제 내역</b></small>|<small><b>환영 페이지</b></small>|<small><b>새 레포 만들기</b></small>|
 ![001]()|![026]()|![027]()
-|<small><b>댓글관리(검색,조회,삭제,복구)</b></small>|<small><b>문의게시글 수정,삭제</b></small>|<small><b>문의게시판 검색(글/댓글,작성자,말머리별)</b></small>|
-|![028](|![021]()|![022]()|
-|<small><b>상품관리(판매상태 변경)</b></small>|<small><b>상품관리(상품 등록)</b></small>|<small><b>전체상품조회(정렬별)</b></small>|
+|<small><b>마이페이지</b></small>|<small><b>비밀번호 변경</b></small>|<small><b>쪽지함</b></small>|
+|![028]()|![021]()|![022]()|
+|<small><b>쪽지보내기</b></small>|<small><b>기록</b></small>|<small><b>팀 목록</b></small>|
 |![029]()|![030]()|![031]()|
-|<small><b>찜한상품 삭제 및 회원탈퇴</b></small>|<small><b>회원관리(계정정지/해제,누적경고수조회)</b></small>|<small><b>회원관리(관리자권한부여)</b></small>|
+|<small><b>게시판 기록</b></small>|<small><b>활동</b></small>|<small><b>결제</b></small>|
 |![032]()|![033](|![034]()|
+|<small><b>진행</b></small>|<small><b>AI</b></small>|<small><b>홈으로 가기</b></small>|
+|![035]()|![036](|![037]()|
 
 ### 🛠기술 스택
 OS | Windows 10, Mac
