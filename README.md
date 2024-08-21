@@ -1,4 +1,4 @@
-# 🛒DEHUV-SURVER(김동규,김영식,김진서,장태현,허웅)
+# 🛒DEHUV-SURVER
 💬 Manage Configuration Easily with Us To Improve Your Project 
 
 프로젝트를 개선하기 위해 우리와 함께 쉽게 구성을 관리를 할수있게 만든 프로젝트
