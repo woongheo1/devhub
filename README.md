@@ -2,6 +2,19 @@
 💬 Manage Configuration Easily with Us To Improve Your Project 
 
 프로젝트를 개선하기 위해 우리와 함께 쉽게 구성을 관리를 할수있게 만든 프로젝트
+
+
+
+## 팀원 구성
+
+<div align="center">
+
+| **김동규** | **김영식** | **김진서** | **장태현** | **허웅** |
+| :------: |  :------: | :------: | :------: | :------: |
+| [<img src="사진경로" height=150 width=150> <br/> @dongkyukim1](https://github.com/dongkyukim1) | [<img src="사진경로" height=150 width=150> <br/> @youngsik](https://github.com/zeroway3) | [<img src="사진경로" height=150 width=150> <br/> @jins0113](https://github.com/jins0113) | [<img src="사진경로" height=150 width=150> <br/> @TaeHyeon](https://github.com/xogus3492) | [<img src="사진경로" height=150 width=150> <br/> @woong](https://github.com/woongheo1)
+
+</div>
+
 ### 💻프로젝트 개요
 - [x] [💿서비스 시연 영상](#서비스-시연-영상)
 - [x] [🎯서비스 핵심기능](#서비스-핵심기능)
