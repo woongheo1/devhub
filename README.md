@@ -130,12 +130,12 @@ public enum ProductInkColor {
 |![029](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6.gif)|![030]()|![031](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.gif)|
 |<small><b>프로필사진 변경</b></small>|<small><b>비밀번호변경</b></small>|<small><b>진행사항 조절</b></small>|
 |![032](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5%E1%86%AF%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%87%E1%85%A7%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC.gif)|![033](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%87%E1%85%B5%E1%84%86%E1%85%B5%E1%86%AF%E1%84%87%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A9%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC.gif)|![034](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1%E1%84%92%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AF.gif)|
-|<small><b기록</b></small>|<small><b>팀 목록</b></small>|<small><b>게시글 기록</b></small>|
-|![035]()|![036]()|![037]()|
+|<small><b>기록</b></small>|<small><b>팀 목록</b></small>|<small><b>게시글 기록</b></small>|
+|![035](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8.gif)|![036](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%90%E1%85%B5%E1%86%B7%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8.gif)|![037](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8.gif)|
 |<small><b>활동</b></small>|<small><b>결제</b></small>|<small><b>진행</b></small>|
-|![038]()|![039]()|![040]()|
+|![038]()|![039](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6%20%E1%84%82%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%A8.gif)|![040]()|
 |<small><b>ai</b></small>|<small><b>홈으로 가기</b></small>|<small><b>?</b></small>|
-|![041]()|![042]()|![043]()|
+|![041]()|![042](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9.gif)|![043]()|
 
 ### 🛠기술 스택
 OS | Windows 10, Mac
