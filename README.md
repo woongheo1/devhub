@@ -38,41 +38,22 @@
 🚧 AI 도우미 :  자동화된 작업처리 | 대화내역 저장 | 이메일 사본 보내기 
 📈 팀원구하기 : 게시판목록 | 게시판생성 | 게시판수정 | 게시판삭제 | 내게시판 조회 
 ```
-
 <details>
-<summary>핵심기능 #1. 실시간 알림</summary>
-
-![fuction001](https://github.com/rhjdev/geulbeotmall/assets/95993932/ed48456e-a80e-4fbb-8f4a-36d895d8f0bc)
-- [x] `댓글/대댓글/상품출고/배송완료`에 대해 Server to Client로의 단방향 통신이 가능한 Server-Sent Events(SSE) 기반으로 실시간 알림 기능을 제공합니다.
-- [x] 각 알림 메시지를 클릭해 해당 게시글 또는 주문상세정보페이지로 이동 및 확인이 가능하며, `메시지 삭제 버튼`을 눌러 더 이상 목록에 노출되지 않도록 제외할 수 있습니다.
-- [x] 회원이 `로그아웃한 사이 발생한 이벤트 역시 재로그인 후 알림 목록에서 확인`할 수가 있습니다. 
+<summary>핵심기능 #1. 이메일 발송</summary>
+ 
+![fuction001](https://github.com/rhjdev/geulbeotmall/assets/95993932/5ec2b61a-36b8-458e-9ee8-0cd250dc7bb4)
+- [x] `JavaMailSender`를 이용해 이메일 인증 및 임시 비밀번호 발송 기능을 구현하였습니다.
+- [x] 휘발성 데이터인 이메일 인증 토큰의 경우 인메모리(In-Memory) 형태에 TTL(Time to Live) 특성을 지녀 유효기간이 설정된 `Redis` 기반의 Refresh Token으로 관리합니다. 사용자는 전송된 링크를 눌러 재접속하는 것만으로 이메일 인증을 완료할 수 있습니다.
 </details>
-<details>
-<summary>핵심기능 #2. 전체 상품 검색</summary>
 
-![fuction002](https://github.com/rhjdev/geulbeotmall/assets/95993932/42912cf3-1824-4c99-a6ac-01c9b098fd7b)
-- [x] 검색 키워드로서 문자, 숫자 모두 취급해 `상품명, 브랜드명, 주요태그`는 물론 `심두께별 검색`이 가능합니다.
-- [x] `Commons Lang3` 통해 파라미터 타입(parameter type)을 동적으로 구분하도록 작성하였습니다.
-```xml
-WHERE A.PROD_AVAIL_YN = 'Y' <!-- 판매중인 상품에 한하여 검색 -->
-  AND (
-<choose>
-<!-- parameterType 동적 구분 / ASCII 코드 기반 '.' 포함 여부 확인 / 취급 중인 상품의 심두께는 2.0 이하 -->
-<when test="@org.apache.commons.lang3.math.NumberUtils@isCreatable(keyword) 
-        and @org.apache.commons.lang3.StringUtils@contains(keyword, 46) and keyword lt 2">
-        O.OPT_POINT_SIZE LIKE TO_NUMBER(#{ keyword })
-</when>
-<otherwise>
-        A.PROD_NAME LIKE '%' || #{ keyword } || '%'
-    OR C.BRAND_NAME LIKE '%' || #{ keyword } || '%'
-    OR A.PRODUCT_TAG LIKE '%' || #{ keyword } || '%'
-</otherwise>
-</choose>
-    )
-```
-</details>
 <details>
-<summary>핵심기능 #3. 잉크색상별 검색 필터</summary>
+<summary>핵심기능 #2. 구글 로그인</summary>
+
+- [x] 일반 로그인의 경우 회원가입 양식 작성 후 이메일 인증을 거쳐야 하는 반면, 구글 로그인한 회원은 `해당 계정에서 불러온 이름 및 이메일 정보가 연동`돼 입력란을 채우며 나아가 별도의 이메일 인증 없이 곧바로 이용이 가능합니다.
+</details>
+
+<details>
+<summary>핵심기능 #3. 쪽지 기능</summary>
 
 ![fuction003](https://github.com/rhjdev/geulbeotmall/assets/95993932/b1555bac-bccc-4754-a74c-e4ab97a3a53d)
 - [x] 색상들을 `Enum` 상수 필드로 정의하고, 각각 `DB 저장에 쓰일 값(value)/사용자 화면에 보일 이름(label)/스타일 적용 용도의 헥스코드(color)`와 같은 데이터를 명시한 후 생성자 통해 호출 및 활용하였습니다.
@@ -92,26 +73,26 @@ public enum ProductInkColor {
 ```
 </details>
 <details>
-<summary>핵심기능 #4. 최근 본 상품 목록/비로그인 장바구니</summary>
+<summary>핵심기능 #4. ai 서비스</summary>
 
 ![fuction004](https://github.com/rhjdev/geulbeotmall/assets/95993932/aed5de29-cbac-4619-b66c-648153d60b8b)
 - [x] 로그인 여부에 상관 없이 접속 이래 현재까지 조회한 상품 목록을 `@SessionAttributes` 어노테이션 통해 세션상에 `recentlyViewed` 이름으로 계속 기록합니다. 이후 로그인하게 되면 회원은 `마이페이지 메인에서 해당 목록을 확인`할 수 있습니다.
 - [x] 비로그인 상태에서 담은 장바구니 상품은 마찬가지로 `@SessionAttributes` 어노테이션 통해 세션상에 `geulbeotCart`로서 기록됩니다. 이어서 로그인이 발생할 경우 `회원의 장바구니 목록으로 연동 및 저장`됩니다.
 </details>
 <details>
-<summary>핵심기능 #5. 이메일 발송</summary>
+<summary>핵심기능 #5. 게시글 작성</summary>
 
 ![fuction005](https://github.com/rhjdev/geulbeotmall/assets/95993932/5ec2b61a-36b8-458e-9ee8-0cd250dc7bb4)
 - [x] `JavaMailSender`를 이용해 이메일 인증 및 임시 비밀번호 발송 기능을 구현하였습니다.
 - [x] 휘발성 데이터인 이메일 인증 토큰의 경우 인메모리(In-Memory) 형태에 TTL(Time to Live) 특성을 지녀 유효기간이 설정된 `Redis` 기반의 Refresh Token으로 관리합니다. 사용자는 전송된 링크를 눌러 재접속하는 것만으로 이메일 인증을 완료할 수 있습니다.
 </details>
 <details>
-<summary>핵심기능 #6. 소셜 로그인</summary>
+<summary>핵심기능 #6. 나의 프로젝트</summary>
 
 - [x] 일반 로그인의 경우 회원가입 양식 작성 후 이메일 인증을 거쳐야 하는 반면, 소셜 로그인한 회원은 `해당 계정에서 불러온 이름 및 이메일 정보가 연동`돼 입력란을 채우며 나아가 별도의 이메일 인증 없이 곧바로 이용이 가능합니다.
 </details>
 <details>
-<summary>핵심기능 #7. 적립금 혜택</summary>
+<summary>핵심기능 #7. 팀 프로젝트</summary>
 
 - [x] 일반 로그인/소셜 로그인 구분 없이 모든 신규 회원은 `가입과 동시에 2,000원의 적립금`을 적립 받습니다.
 - [x] `텍스트리뷰 100원/사진리뷰 300원`으로 적립금 혜택이 주어집니다. 따라서 1)작성자는 작성일로부터 7일 경과 후 게시글 삭제가 가능하며, 2)텍스트리뷰 수정 시 파일 추가가 이뤄진다면 차액을 추가로 적립 받습니다.
