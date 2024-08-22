@@ -134,9 +134,9 @@ public enum ProductInkColor {
 |<small><b>기록</b></small>|<small><b>팀 목록</b></small>|<small><b>게시글 기록</b></small>|
 |![035](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8.gif)|![036](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%90%E1%85%B5%E1%86%B7%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8.gif)|![037](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8.gif)|
 |<small><b>활동</b></small>|<small><b>결제</b></small>|<small><b>진행</b></small>|
-|![038]()|![039](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6%20%E1%84%82%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%A8.gif)|![040]()|
-|<small><b>ai</b></small>|<small><b>홈으로 가기</b></small>|<small><b>?</b></small>|
-|![041]()|![042](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9.gif)|![043]()|
+|![038](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC.gif)|![039](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6%20%E1%84%82%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%A8.gif)|![040]()|
+|<small><b>ai</b></small>|<small><b>홈으로 가기</b></small>|<small><b>해외결제</b></small>|
+|![041]()|![042](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9.gif)|![043](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%A2%E1%84%8B%E1%85%AC%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6.gif)|
 
 ### 🛠기술 스택
 OS | Windows 10, Mac
