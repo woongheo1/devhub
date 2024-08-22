@@ -32,17 +32,17 @@
 ```
 👨‍👨‍👧 회원 : 로그인 | 로그아웃 | 회원가입 | 이메일 인증 | 소셜 로그인(구글) 
 🏡 나의프로젝트 : 저장소 이름 | 간단한 저장소 설명 | 수정 | 삭제
-🏡 팀 프로젝트 :  프로젝트 만들기 | 프로젝트 목록 | 프로젝트 참가 | 팀원초대
+🏡 팀 프로젝트 :  프로젝트 만들기 | 프로젝트 목록 | 프로젝트 참가 | 팀원초대 | 레포지토리 생성
 💰 쪽지 보내기 : 받는 사람의 이메일 | 팀 레포지토리 URL | 메세지 내용
 💰 쪽지함 : 받은 쪽지함 | 보낸 쪽지함
-🚧 AI 도우미 :  자동화된 작업처리 | 대화내역 저장 | 이메일 사본 보내기 
+🚧 AI 도우미 :  자동화된 작업처리 | 대화내역 저장  
 📈 팀원구하기 : 게시판목록 | 게시판생성 | 게시판수정 | 게시판삭제 | 내게시판 조회
-마이 페이지 : 
+🏠 마이 페이지 : 비빌번호 변경 | 프로필 사진 변경 | 진행 사항조절 | 기록 | 팀목록 | 게시글 기록 | 쪽지함 | 결제 내역
 ```
 <details>
 <summary>핵심기능 #1. 이메일 발송</summary>
  
-![fuction001](https://github.com/rhjdev/geulbeotmall/assets/95993932/5ec2b61a-36b8-458e-9ee8-0cd250dc7bb4)
+![fuction001](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC.png)
 - [x] `JavaMailSender`를 이용해 이메일 인증 및 임시 비밀번호 발송 기능을 구현하였습니다.
 - [x] 휘발성 데이터인 이메일 인증 토큰의 경우 인메모리(In-Memory) 형태에 TTL(Time to Live) 특성을 지녀 유효기간이 설정된 `Redis` 기반의 Refresh Token으로 관리합니다. 사용자는 전송된 링크를 눌러 재접속하는 것만으로 이메일 인증을 완료할 수 있습니다.
 </details>
@@ -69,9 +69,10 @@ public enum ProductInkColor {
 
 </details>
 <details>
+ 
 <summary>핵심기능 #5. 게시글 작성</summary>
  
-- [x] 
+- [x] 로컬 스토리지에 저장된 JWT 토큰을 사용하여 API로부터 작성자 정보를 가져와, 작성자 필드를 자동으로 채우고 읽기 전용으로 설정한다.
 </details>
 <details>
 <summary>핵심기능 #6. 나의 프로젝트</summary>
@@ -88,7 +89,7 @@ public enum ProductInkColor {
 <details>
 <summary>핵심기능 #8. 휴지통 이동</summary>
 
-- [x]  팀/레포제포리 삭제 시 `휴지통`에 저장돼 `10일의 복구기한`이 주어지고(클릭은안됨), 만료일이 도래하면 자동 영구 삭제됩니다.
+- [x]  팀/레포제포리 삭제 시 `휴지통`에 저장돼 `10일의 복구기한`이 주어지고, 만료일이 도래하면 자동 영구 삭제됩니다.
 - [x] 임의로 이동되는 경우에 대비하여 `삭제자`를 명시하며, 관리자는 기한 내 이를 복구할 수 있는 권한이 있습니다.
 </details>
 
@@ -122,13 +123,13 @@ public enum ProductInkColor {
 |<small><b>활동</b></small>|<small><b>결제</b></small>|<small><b>진행</b></small>|
 |![038](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC.gif)|![039](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6%20%E1%84%82%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%A8.gif)|![040]()|
 |<small><b>ai</b></small>|<small><b>홈으로 가기</b></small>|<small><b>해외결제</b></small>|
-|![041]()|![042](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9.gif)|![043](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%A2%E1%84%8B%E1%85%AC%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6.gif)|
+|![041](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8.gif)|![042](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9.gif)|![043](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%A2%E1%84%8B%E1%85%AC%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6.gif)|
 
 ### 🛠기술 스택
 OS | Windows 10, Mac
 --- | --- |
-Language | ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-IDE | ![STS4](https://img.shields.io/badge/STS4-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-007ACC?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![SQL Developer](https://img.shields.io/badge/SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+Language | ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 
+IDE | ![STS4](https://img.shields.io/badge/STS4-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-007ACC?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![SQL Developer](https://img.shields.io/badge/SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 Framework | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-ORM-green?style=for-the-badge&logo=spring) [![Flask](https://img.shields.io/badge/Flask-007ACC?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 Build Tool | ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 Database | ![Mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
@@ -155,4 +156,4 @@ Version Control | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for
 ![architecture](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A7.jpeg)
 
 ### 📖ERD
-![erd](https://github.com/rhjdev/geulbeotmall/assets/95993932/60b4a3ff-67f2-40e9-9e68-c0a8bf2c00cf)
+![erd](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20erd.jpeg)
