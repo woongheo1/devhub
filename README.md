@@ -36,7 +36,8 @@
 💰 쪽지 보내기 : 받는 사람의 이메일 | 팀 레포지토리 URL | 메세지 내용
 💰 쪽지함 : 받은 쪽지함 | 보낸 쪽지함
 🚧 AI 도우미 :  자동화된 작업처리 | 대화내역 저장 | 이메일 사본 보내기 
-📈 팀원구하기 : 게시판목록 | 게시판생성 | 게시판수정 | 게시판삭제 | 내게시판 조회 
+📈 팀원구하기 : 게시판목록 | 게시판생성 | 게시판수정 | 게시판삭제 | 내게시판 조회
+마이 페이지 : 
 ```
 <details>
 <summary>핵심기능 #1. 이메일 발송</summary>
@@ -57,34 +58,20 @@
 
 ![fuction003](https://github.com/rhjdev/geulbeotmall/assets/95993932/b1555bac-bccc-4754-a74c-e4ab97a3a53d)
 - [x] 색상들을 `Enum` 상수 필드로 정의하고, 각각 `DB 저장에 쓰일 값(value)/사용자 화면에 보일 이름(label)/스타일 적용 용도의 헥스코드(color)`와 같은 데이터를 명시한 후 생성자 통해 호출 및 활용하였습니다.
-```java
+
 public enum ProductInkColor {
     BLACK("black", "블랙", "color: #000000;"); //value, label, color
 }
-```
-```html
-<th:block th:each="ink : ${T(com.reminder.geulbeotmall.product.model.dto.ProductInkColor).values()}">
-    <span class="color-span" th:data-target="${ ink.getLabel() }">
-        <a href="#" data-bs-toggle="tooltip" data-bs-placement="top" th:title="${ ink.getLabel() }">
-            <i class="fa-solid fa-square-full" th:style="${ ink.getColor() }"></i>
-        </a>
-    </span>
-</th:block>
-```
+
 </details>
 <details>
 <summary>핵심기능 #4. ai 서비스</summary>
 
-![fuction004](https://github.com/rhjdev/geulbeotmall/assets/95993932/aed5de29-cbac-4619-b66c-648153d60b8b)
-- [x] 로그인 여부에 상관 없이 접속 이래 현재까지 조회한 상품 목록을 `@SessionAttributes` 어노테이션 통해 세션상에 `recentlyViewed` 이름으로 계속 기록합니다. 이후 로그인하게 되면 회원은 `마이페이지 메인에서 해당 목록을 확인`할 수 있습니다.
-- [x] 비로그인 상태에서 담은 장바구니 상품은 마찬가지로 `@SessionAttributes` 어노테이션 통해 세션상에 `geulbeotCart`로서 기록됩니다. 이어서 로그인이 발생할 경우 `회원의 장바구니 목록으로 연동 및 저장`됩니다.
 </details>
 <details>
 <summary>핵심기능 #5. 게시글 작성</summary>
-
-![fuction005](https://github.com/rhjdev/geulbeotmall/assets/95993932/5ec2b61a-36b8-458e-9ee8-0cd250dc7bb4)
-- [x] `JavaMailSender`를 이용해 이메일 인증 및 임시 비밀번호 발송 기능을 구현하였습니다.
-- [x] 휘발성 데이터인 이메일 인증 토큰의 경우 인메모리(In-Memory) 형태에 TTL(Time to Live) 특성을 지녀 유효기간이 설정된 `Redis` 기반의 Refresh Token으로 관리합니다. 사용자는 전송된 링크를 눌러 재접속하는 것만으로 이메일 인증을 완료할 수 있습니다.
+ 
+- [x] 
 </details>
 <details>
 <summary>핵심기능 #6. 나의 프로젝트</summary>
@@ -101,7 +88,7 @@ public enum ProductInkColor {
 <details>
 <summary>핵심기능 #8. 휴지통 이동</summary>
 
-- [x] 게시글/댓글은 삭제 시 `휴지통`에 저장돼 `100일의 복구기한`이 주어지고, 만료일이 도래하면 자동 영구 삭제됩니다.
+- [x]  팀/레포제포리 삭제 시 `휴지통`에 저장돼 `10일의 복구기한`이 주어지고(클릭은안됨), 만료일이 도래하면 자동 영구 삭제됩니다.
 - [x] 임의로 이동되는 경우에 대비하여 `삭제자`를 명시하며, 관리자는 기한 내 이를 복구할 수 있는 권한이 있습니다.
 </details>
 
