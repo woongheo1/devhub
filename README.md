@@ -132,6 +132,10 @@
 |![023](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%90%E1%85%B5%E1%86%B7%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.gif)|![024](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%90%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%A9%E1%84%83%E1%85%A2.gif)|![025](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%B2%E1%84%8C%E1%85%B5%E1%84%90%E1%85%A9%E1%86%BC.gif)|
 |<small><b>프로젝트 삭제 내역</b></small>|<small><b>환영 페이지</b></small>|<small><b>새 레포 만들기</b></small>|
 ![001](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6%20%E1%84%82%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%A8.gif)|![026](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%AA%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.gif)|![027](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%89%E1%85%A2%20%E1%84%85%E1%85%A6%E1%84%91%E1%85%A9%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5.gif)
+|<small><b>ai 코드 리뷰</b></small>|<small><b>코드 검색</b></small>|<small><b>레포지토리 기능</b></small>|
+![1](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8.gif)|![2](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8.gif)|![3](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%85%E1%85%A6%E1%84%91%E1%85%A9%E1%84%8C%E1%85%B5%E1%84%90%E1%85%A9%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC.gif)
+|<small><b>도움말</b></small>|<small><b></b></small>|<small><b></b></small>|
+![4](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE%E1%86%B7%E1%84%86%E1%85%A1%E1%86%AF.gif)
 |<small><b>팀원초대</b></small>|<small><b>쪽지함</b></small>|<small><b>쪽지함 삭제</b></small>|
 |![028](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%86%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%A9%E1%84%83%E1%85%A2.gif)|![021](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8D%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%B5%E1%84%92%E1%85%A1%E1%86%B7.gif)|![022](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%8D%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%B5%E1%84%92%E1%85%A1%E1%86%B7%20%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6.gif)|
 |<small><b>결제</b></small>|<small><b>AI 서비스</b></small>|<small><b>마이 페이지</b></small>|
@@ -142,8 +146,8 @@
 |![035](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8.gif)|![036](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%90%E1%85%B5%E1%86%B7%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8.gif)|![037](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8.gif)|
 |<small><b>활동</b></small>|<small><b>결제</b></small>|<small><b>해외결제</b></small>|
 |![038](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC.gif)|![039](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6%20%E1%84%82%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%A8.gif)|![040](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%A2%E1%84%8B%E1%85%AC%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6.gif)|
-|<small><b>ai</b></small>|<small><b>홈으로 가기</b></small>
-|![041](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8.gif)|![042](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9.gif)
+|<small><b>홈으로 가기</b></small>|<small><b></b></small>
+|![041](https://github.com/woongheo1/devhub/blob/main/images/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9.gif)|![042]()
 
 ### 🛠기술 스택
 OS | Windows 10, Mac
