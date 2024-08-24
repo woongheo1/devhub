@@ -158,7 +158,8 @@ Database | ![Mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badg
 Library | ![Spring Security](https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-green?style=for-the-badge&logo=spring)
 API | ![Java Mail](https://img.shields.io/badge/Java%20Mail-3a75b0?style=for-the-badge)  ![Iamport Payment](https://img.shields.io/badge/Iamport%20Payment-c1272d?style=for-the-badge) ![CKEditor 4](https://img.shields.io/badge/CKEditor%204-0287D0?style=for-the-badge&logo=ckeditor4&logoColor=white) ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![REST API](https://img.shields.io/badge/REST%20API-blue?style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-34AA34?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Auth0](https://img.shields.io/badge/Auth0-34AA34?style=for-the-badge&logo=auth0&logoColor=white) 
 Server | ![Apache Tomcat 9.0](https://img.shields.io/badge/Apache%20Tomcat%20-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-Version Control | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+Version Control | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+
 
 ### ✨기술적 의사결정
 선택기술 | 선택이유 및 근거
