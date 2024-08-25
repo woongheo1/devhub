@@ -1,7 +1,7 @@
 # 🛒DEHUV-SURVER
 💬 Manage Configuration Easily with Us To Improve Your Project 
 
-프로젝트를 개선하기 위해 우리와 함께 쉽게 구성을 관리를 할수있게 만든 프로젝트
+초보 개발자를 위해 프로젝트를 개선하고 우리와 함께 쉽게 구성을 관리를 할수있게 만든 프로젝트
 
 
 
